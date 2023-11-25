@@ -1,0 +1,117 @@
+/*
+body{
+    background-color:cadetblue;
+    font-family:"Work Sans" , "sans-serif";
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: space-between;
+    align-items: center;
+    color:deeppink;
+    height: 50px;
+    background-color: white;
+}
+.name{
+    color:darkcyan;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.items {
+    padding: 15px ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-basis: 1fr;
+    row-gap: 10px;
+    gap: 20px;
+}
+.c1{
+    flex-basis: calc(100%/3);
+    background-color: white;
+    border-radius:5px ;
+    text-align: center;
+}
+.c2{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;
+    text-align: center;
+}
+.c3{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}
+.c4{
+    flex-basis: calc(100%/3);;
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}
+
+.c5{
+    flex-basis: calc(100%/3 - 30px);;
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c6{
+    flex-basis: calc(100%/3 - 30px);;
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c7{
+    flex-basis: calc(100%/3 );
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c8{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}
+.c9{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c10{
+    flex-basis: calc(100%/3 );
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c11{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c12{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c13{
+    flex-basis: calc(100%/3 );
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c14{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}.c15{
+    flex-basis: calc(100%/3 - 30px);
+    background-color: white;
+    border-radius:5px ;text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-color:green;
+    padding: 22px;
+    
+}
+
+*/
